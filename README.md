@@ -1,0 +1,2 @@
+# BaiduComponent
+a test Component
